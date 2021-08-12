@@ -19,9 +19,9 @@
 
 ## Media
 - Book
-    - Code
+    - ~~Code~~👍👍👍
     - Logan
 - Movie
   - No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State
 - Game
-  - Life is strange
+  - ~~Life is strange~~
